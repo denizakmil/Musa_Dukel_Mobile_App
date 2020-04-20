@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "MusaDukel",
+    "slug": "MusaDukel",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+
+    "platforms": [
+       "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.MusaDukel.MusaDukel",
+ 
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false
+    }
+  }
+}
